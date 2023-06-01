@@ -23,3 +23,13 @@ The Text-Summarizer-Project offers several benefits and potential applications, 
 - Information Retrieval: Search engines and information retrieval systems can integrate the summarizer to provide concise summaries alongside search results, enhancing user experience.
 
 The Text-Summarizer-Project aims to revolutionize the way we consume and process information, empowering users with efficient and accurate text summarization capabilities.
+
+## Workflows
+Update config.yaml
+Update params.yaml
+Update entity
+Update the configuration manager in src config
+update the conponents
+update the pipeline
+update the main.py
+update the app.py
