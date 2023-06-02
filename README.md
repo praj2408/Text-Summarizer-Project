@@ -25,11 +25,11 @@ The Text-Summarizer-Project offers several benefits and potential applications, 
 The Text-Summarizer-Project aims to revolutionize the way we consume and process information, empowering users with efficient and accurate text summarization capabilities.
 
 ## Workflows
-Update config.yaml
-Update params.yaml
-Update entity
-Update the configuration manager in src config
-update the conponents
-update the pipeline
-update the main.py
-update the app.py
+- Update config.yaml
+- Update params.yaml
+- Update entity
+- Update the configuration manager in src config
+- update the conponents
+- update the pipeline
+- update the main.py
+- update the app.py
