@@ -5,6 +5,9 @@ The Text-Summarizer-Project is an advanced natural language processing (NLP) app
 
 The primary objective of the Text-Summarizer-Project is to develop a robust and versatile system capable of summarizing a wide range of textual data, including articles, research papers, news reports, and other lengthy documents. The system will employ state-of-the-art algorithms and models to analyze the input text, identify important sentences, and generate concise summaries that capture the essence of the original content.
 
+## website Link
+https://
+
 ### Key Features and Functionality:
 
 1. Text Preprocessing: The system will preprocess the input text by removing noise, punctuation, and stopwords to enhance the quality of the summaries generated.
@@ -44,3 +47,28 @@ The first instance in the training set: {'id': '13818513', 'summary': 'Amanda ba
 - train: 14732
 - val: 818
 - test: 819
+
+
+## Model Information
+
+## Results
+
+## Contributions
+Contributions to this project are welcome! To contribute, please follow the standard GitHub workflow for pull requests.
+
+## Contact Information
+If you have any questions or comments about this project, feel free to contact the project maintainer at prajwalgbdr03@gmail.com.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Run the project locally
+Clone the project -
+```bash
+git clone https://github.com/praj2408/Text-Summarizer-Project
+```
+Install the requirements - 
+```bash
+pip install -r requirements.txt
+```
+- python app.py Enjoy the project in a local host
