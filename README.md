@@ -25,6 +25,6 @@ The Text-Summarizer-Project offers several benefits and potential applications, 
 The Text-Summarizer-Project aims to revolutionize the way we consume and process information, empowering users with efficient and accurate text summarization capabilities.
 
 ## Dataset 
-Samsum dataset
+Samsum dataset - https://huggingface.co/datasets/samsum
 
 ### Dataset Description
