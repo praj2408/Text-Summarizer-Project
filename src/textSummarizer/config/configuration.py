@@ -42,6 +42,7 @@ class ConfigurationManager:
             STATUS_FILE=config.STATUS_FILE,
             ALL_REQUIRED_FILES=config.ALL_REQUIRED_FILES,
         )
+        return data_validation_config 
 
 
 
