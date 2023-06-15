@@ -7,6 +7,7 @@ The primary objective of the Text-Summarizer-Project is to develop a robust and 
 
 ## Website Link
 https://
+![](https://github.com/praj2408/Text-Summarizer-Project/blob/main/images/website.jpg)
 
 ### Key Features and Functionality:
 
