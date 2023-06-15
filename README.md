@@ -51,8 +51,23 @@ The first instance in the training set: {'id': '13818513', 'summary': 'Amanda ba
 
 
 ## Model Information
+PEGASUS is a state-of-the-art model for abstractive text summarization, developed by Google AI. It is a transformer-based model that is trained on a massive dataset of text and code. PEGASUS can generate summaries that are both informative and fluent, and it has been shown to outperform other models on a variety of summarization tasks.
+
+PEGASUS is trained using a technique called masked language modeling. In masked language modeling, the model is given a sequence of text with some of the words masked out. The model then learns to predict the missing words. This helps the model to learn the relationships between words and phrases, and it also helps the model to learn how to generate text that is fluent and grammatically correct.
+
+PEGASUS is a powerful tool for abstractive text summarization. It can be used to generate summaries of news articles, research papers, and other long documents. PEGASUS can also be used to generate summaries of code, which can be helpful for developers who need to understand the code of a large project.
+
+Here are some of the key features of PEGASUS:
+
+- It is a transformer-based model, which is a type of neural network that has been shown to be effective for a variety of natural language processing tasks.
+- It is trained on a massive dataset of text and code, which gives it a strong understanding of the relationships between words and phrases.
+- It can generate summaries that are both informative and fluent.
+- It has been shown to outperform other models on a variety of summarization tasks.
+
+PEGASUS is a promising new model for abstractive text summarization. It has the potential to revolutionize the way that we summarize text, and it could be used in a variety of applications, such as news aggregation, research paper summarization, and code summarization.
 
 ## Results
+We conducted one epoch of training due to low computing power on our model, but unfortunately, the achieved accuracy was relatively low. The model's performance during this initial training phase did not meet our expectations. We acknowledge that further iterations and adjustments are necessary to improve accuracy and enhance the model's capabilities. The low accuracy obtained after one epoch suggests that additional training or modifications to the model architecture, hyperparameters, or dataset may be required to achieve desired performance levels. Further investigation and experimentation will be conducted to address these concerns and enhance the accuracy of the model.
 
 ## Contributions
 Contributions to this project are welcome! To contribute, please follow the standard GitHub workflow for pull requests.
