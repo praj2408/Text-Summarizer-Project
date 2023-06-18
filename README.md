@@ -1,4 +1,4 @@
-# Text-Summarizer-Project In Progress
+# Text-Summarizer-Project
 
 ## Description
 The Text-Summarizer-Project is an advanced natural language processing (NLP) application that aims to automatically generate concise summaries of large blocks of text. With the ever-increasing amount of information available online and in various documents, extracting key information efficiently has become a crucial task. This project addresses the need for effective and accurate text summarization by utilizing cutting-edge NLP techniques.
